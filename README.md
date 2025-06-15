@@ -5,9 +5,8 @@
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FECA57&multiline=true&center=true&vCenter=true&width=700&height=100&lines=💻+Building+Tomorrow's+Solutions+Today;🎨+UI%2FUX+Design+Enthusiast;🤖+AI+%26+Legal+Tech+Innovator;🚀+Full-Stack+Development+Expert;✨+Transforming+Ideas+into+Digital+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=FF6B6B&center=true&vCenter=true&width=700&height=60&lines=💻+Building+Tomorrow's+Solutions+Today;🚀+Full-Stack+Development+Expert;🎨+UI%2FUX+Design+Enthusiast;🤖+Exploring+AI+Possibilities;✨+Transforming+Ideas+into+Digital+Reality" alt="Typing SVG" />
 </h2>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhinavpapini&style=for-the-badge&label=PROFILE+VIEWS&color=0e75b6" alt="Profile views" />
