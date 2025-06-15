@@ -1,11 +1,11 @@
 # Hi, I'm Abhinav Papini 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=250&section=header&text=Abhinav%20Papini&fontSize=60&fontAlign=50&fontAlignY=35&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Legal%20Tech%20Pioneer&descAlign=50&descAlignY=55&descSize=20&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=250&section=header&text=Abhinav%20Papini&fontSize=60&fontAlign=50&fontAlignY=35&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20Freelancer%20|%20AI%20Explorer&descAlign=50&descAlignY=55&descSize=20&animation=fadeIn" alt="Header" />
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FECA57&multiline=true&center=true&vCenter=true&width=700&height=100&lines=💻+Building+Tomorrow's+Solutions+Today;🤖+AI+%26+Legal+Tech+Innovator;⚖️+Making+Justice+Accessible+Through+Technology;🚀+Full-Stack+Development+Expert;✨+Transforming+Ideas+into+Digital+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FECA57&center=true&vCenter=true&width=700&height=60&lines=💻+Building+Tomorrow's+Solutions+Today;🤖+AI+%26+Legal+Tech+Innovator;⚖️+Making+Justice+Accessible+Through+Technology" alt="Typing SVG" />
 </h2>
 
 <p align="center">
