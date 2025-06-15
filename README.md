@@ -1,26 +1,16 @@
-<!-- README.md for Abhinav Papini -->
+# Hi, I'm Abhinav Papini 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=Full-Stack%20Developer%20|%20CSE%20Student&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👨‍💻+Full-Stack+Developer;🎨+UI%2FUX+Designer;📷+Visual+Creator;🤖+AI%2FML+Explorer;🧠+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💻+Full-Stack+Developer;🤖+AI+%26+ML+Enthusiast;🚀+Building+Legal+Tech+Solutions;✨+Creating+Innovative+Web+Experiences" alt="Typing SVG" />
 </h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhinavpapini&style=for-the-badge&label=PROFILE+VIEWS&color=0e75b6" alt="Profile views" />
 </p>
-
-## 👋 Introduction
-
-Hi, I'm **Abhinav Papini**, a tech-savvy and visually creative developer currently pursuing **B.Tech in Computer Science and Engineering** at **VNRVJIET**.
-
-I’m passionate about building innovative tech solutions—whether it’s a chatbot solving legal issues, a platform democratizing education, or simply designing beautiful interfaces that delight users. My projects reflect a mix of **AI/ML exploration**, **full-stack development**, **UI/UX design**, and even **photography & video editing**.
-
-From winning hackathons to organizing designathons and leading student clubs like **CSI**, **Stentorian**, and **VJMUNSOC**, I love being at the intersection of creativity, code, and community.
-
----
 
 ## 🚀 Featured Projects
 
@@ -29,13 +19,13 @@ From winning hackathons to organizing designathons and leading student clubs lik
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | ⚖️ **DharmaSetu** | AI-powered legal assistant platform for civic awareness | Next.js, Flask, MongoDB, Ollama, FAISS |
-| 📚 **Edu Hub** | Course platform like Udemy/Coursera | MERN Stack |
-| 🏋️ **Gym Analytics App** | Web app analyzing gym membership patterns | Python (Pandas), React, Express |
-| 📝 **Blogosphere** | Role-based blogging platform | MERN Stack |
-| ❓ **Quiz App** | Topic-based quiz app with scoring | MERN Stack |
+| 📚 **Edu Hub** | Complete course platform like Udemy/Coursera | MERN Stack |
+| 💪 **Gym Analytics App** | Web app analyzing gym membership patterns | Python (Pandas), React, Express |
+| 📝 **Blogosphere** | Role-based blogging platform with advanced features | MERN Stack |
+| 🧠 **Quiz App** | Interactive topic-based quiz app with scoring | MERN Stack |
 | 🎮 **Python Game** | Arcade-style game using Turtle graphics & OOP | Python (Turtle) |
-| 🚀 **ECFICIO Website** | Annual entrepreneurship fest site for college | MERN Stack |
-| 🤖 **Legal Services Bot** | Chatbot for government & admission services | Langchain, Flask, Ollama, MongoDB |
+| 🎪 **ECFICIO Website** | Annual entrepreneurship fest site for college | MERN Stack |
+| 🤖 **Legal Services Bot** | AI chatbot for government & admission services | Langchain, Flask, Ollama, MongoDB |
 
 </div>
 
@@ -43,22 +33,27 @@ From winning hackathons to organizing designathons and leading student clubs lik
 
 ### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,materialui&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,materialui&perline=8&theme=dark" alt="Frontend Skills" />
 </p>
 
 ### ⚙️ Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,cpp&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,cpp&perline=6&theme=dark" alt="Backend Skills" />
 </p>
 
 ### 🗄️ Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,docker,gcp,vercel,aws&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,docker,vercel,aws&perline=6&theme=dark" alt="Database & Cloud" />
+</p>
+
+### 🤖 AI & Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=3&theme=dark" alt="AI/ML Skills" />
 </p>
 
 ### 🛠️ Tools & Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4&theme=dark" alt="Tools" />
 </p>
 
 ## 🎯 Current Focus
@@ -67,66 +62,104 @@ From winning hackathons to organizing designathons and leading student clubs lik
 
 ```mermaid
 graph TD
-    A[🔍 Open Source Contributions] --> B[Hacktoberfest, GSOC]
-    C[📖 Learning & Research] --> D[ML, NLP, Vector Search]
-    C --> E[AI-based Civic Solutions]
-    F[🤖 AI Development] --> G[Legal Bots & Chat Assistants]
-    F --> H[Full-Stack Web Dev Projects]
-    I[🎨 Creative Design] --> J[Video Editing, Photography]
-
+    A[🔍 Legal Tech Innovation] --> B[DharmaSetu Platform]
+    C[📖 Learning & Development] --> D[Advanced AI/ML]
+    C --> E[Full-Stack Mastery]
+    F[🤖 AI Development] --> G[Chatbots & Legal AI]
+    F --> H[MERN/Next.js Projects]
+    I[☁️ Cloud & Deployment] --> J[AWS & Docker]
+    I --> K[Scalable Architecture]
+    
     style A fill:#58A6FF,stroke:#1F6FEB,color:#fff
     style C fill:#58A6FF,stroke:#1F6FEB,color:#fff
     style F fill:#58A6FF,stroke:#1F6FEB,color:#fff
     style I fill:#58A6FF,stroke:#1F6FEB,color:#fff
 ```
+
 </div>
 
-## ✨ Fun Facts About Me
+- ⚖️ **Legal Tech Innovation** with **AI-powered solutions**
+- 🤖 Building **intelligent chatbots** and **legal assistants**
+- 📚 Developing **educational platforms** and **analytics tools**
+- 🚀 Creating **full-stack applications** with modern frameworks
+- ☁️ Learning **cloud deployment** and **scalable architecture**
+- 🎯 Focused on **civic awareness** and **legal accessibility**
+
+## ✨ What Makes Me Unique
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FFA657&center=true&vCenter=true&width=500&lines=🎨+UI%2FUX+and+Visual+Design+Enthusiast;🧠+Tech+Club+Member+%26+Organiser;🧩+Puzzle+Event+Designer;🧑‍💻+Always+Exploring+AI%2C+Design+%26+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FFA657&center=true&vCenter=true&width=500&lines=⚖️+Legal+Tech+Pioneer;🔍+AI+%26+Data+Analytics;🎯+Problem+Solver;🌟+Innovation+Driven;📚+Continuous+Learner;🤝+Community+Builder" alt="Unique Traits" />
 </div>
 
-- 🎨 Blend of **design, storytelling, and development**  
-- 💡 Organiser at **CSI**, **Stentorian**, **VJMUNSOC**  
-- 📸 Passionate about **video editing, photography**, and **aqua sports**  
-- 🧠 **Hackathon & Design-a-thon** enthusiast  
-- 🌱 Always upskilling with **online certifications & new tools**
+- ⚖️ Passionate about **legal technology** and **civic awareness**
+- 🔍 Combining **AI/ML** with **real-world problem solving**
+- 🎯 Building solutions that make **legal services accessible**
+- 🌟 Always exploring **innovative technologies** and **best practices**
+- 📚 Committed to **continuous learning** and **skill development**
+- 🤝 Believe in **technology for social good**
 
-## 🔗 Let's Connect
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinavpapini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavpapini&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavpapini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+## 🌐 Let's Connect & Collaborate!
 
 <div align="center">
   <p>
     <a href="https://google.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=vercel&theme=dark" title="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/abhinav-papini" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" title="LinkedIn" />
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/abhinav-papini/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <a href="mailto:papiniabhinav@gmail.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" title="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <a href="https://github.com/Abhinavpapini" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://codepen.io/papiniabhinav" target="_blank">
-      <img src="https://skillicons.dev/icons?i=codepen&theme=dark" title="CodePen" />
+    &nbsp;&nbsp;
+    <a href="https://codepen.io/Abhinavpapini" target="_blank">
+      <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
     </a>
   </p>
 </div>
 
+## 🎪 Fun Zone
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&section=footer" alt="Footer" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavpapini&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=⭐+Star+my+repositories!;🤝+Let's+collaborate!;💡+Open+to+opportunities!" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=⭐+Star+my+repositories!;🤝+Let's+build+something+amazing!;💡+Open+to+collaboration!" alt="Footer Message" />
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=60&section=footer" alt="Footer Wave" />
+</div>
+
+---
+
+<div align="center">
+  <sub>💡 <strong>Turning ideas into reality, one commit at a time!</strong></sub>
 </div>
