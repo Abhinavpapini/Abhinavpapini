@@ -1,11 +1,11 @@
 # Hi, I'm Abhinav Papini 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=Full-Stack%20Developer%20|%20CSE%20Student&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Abhinav%20Papini&fontSize=50&fontAlign=70&fontAlignY=40&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Legal%20Tech%20Pioneer&descAlign=62&descAlignY=60&animation=twinkling" alt="Header" />
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💻+Full-Stack+Developer;🤖+AI+%26+ML+Enthusiast;🚀+Building+Legal+Tech+Solutions;✨+Creating+Innovative+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=gradient&background=21262d&center=true&vCenter=true&width=600&lines=💻+Building+Tomorrow's+Solutions;🤖+AI+%26+Legal+Tech+Innovator;⚖️+Making+Justice+Accessible;🚀+Full-Stack+Development+Expert;✨+Transforming+Ideas+into+Reality" alt="Typing SVG" />
 </h2>
 
 <p align="center">
@@ -141,7 +141,7 @@ graph TD
 ## 🎪 Fun Zone
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavpapini&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavpapini&theme=react-dark&hide_border=true&bg_color=0d1117&color=79fe96&line=00b4d8&point=58a6ff&area=true&hide_title=false" alt="Activity Graph" />
 </div>
 
 <div align="center">
@@ -155,7 +155,7 @@ graph TD
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=60&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&animation=twinkling" alt="Footer Wave" />
 </div>
 
 ---
