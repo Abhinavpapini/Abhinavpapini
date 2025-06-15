@@ -1,11 +1,11 @@
 # Hi, I'm Abhinav Papini 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Abhinav%20Papini&fontSize=50&fontAlign=70&fontAlignY=40&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Legal%20Tech%20Pioneer&descAlign=62&descAlignY=60&animation=twinkling" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=250&section=header&text=Abhinav%20Papini&fontSize=60&fontAlign=50&fontAlignY=35&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Legal%20Tech%20Pioneer&descAlign=50&descAlignY=55&descSize=20&animation=fadeIn" alt="Header" />
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=gradient&background=21262d&center=true&vCenter=true&width=600&lines=💻+Building+Tomorrow's+Solutions;🤖+AI+%26+Legal+Tech+Innovator;⚖️+Making+Justice+Accessible;🚀+Full-Stack+Development+Expert;✨+Transforming+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FECA57&multiline=true&center=true&vCenter=true&width=700&height=100&lines=💻+Building+Tomorrow's+Solutions+Today;🤖+AI+%26+Legal+Tech+Innovator;⚖️+Making+Justice+Accessible+Through+Technology;🚀+Full-Stack+Development+Expert;✨+Transforming+Ideas+into+Digital+Reality" alt="Typing SVG" />
 </h2>
 
 <p align="center">
@@ -101,15 +101,15 @@ graph TD
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinavpapini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinavpapini&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavpapini&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavpapini&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FECA57&currStreakLabel=4ECDC4&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavpapini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavpapini&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_radius=10" alt="Top Languages" />
 </div>
 
 ## 🌐 Let's Connect & Collaborate!
@@ -141,7 +141,7 @@ graph TD
 ## 🎪 Fun Zone
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavpapini&theme=react-dark&hide_border=true&bg_color=0d1117&color=79fe96&line=00b4d8&point=58a6ff&area=true&hide_title=false" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavpapini&custom_title=Abhinav's%20Contribution%20Graph&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FECA57&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <div align="center">
@@ -155,7 +155,7 @@ graph TD
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&animation=twinkling" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=120&section=footer&animation=fadeIn" alt="Footer Wave" />
 </div>
 
 ---
